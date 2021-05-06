@@ -16,6 +16,7 @@
                         <h6>Tipo: {{$pasta['tipo']}}</h6>
                         <h6>Cottura: {{$pasta['cottura']}}</h6>
                         <h6>Peso: {{$pasta['peso']}}</h6>
+                        <i class="fas fa-utensils"></i>
                     </div>
                     <img src="{{$pasta['src']}}" alt="">
                 </div>

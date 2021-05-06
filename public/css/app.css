@@ -47,6 +47,7 @@ body {
 
 #nav_menu ul li a:hover {
     background-color: rgb(179,229,252);
+    border-radius: 3px;
 }
 
 .homepage_banner img {
@@ -131,7 +132,12 @@ body {
     cursor: pointer;
 }
 
-.n_paragraph {
+.card_container i {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.n_paragraph, .card_container i {
     color: rgb(55,90,145);
 }
 
